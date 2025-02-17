@@ -266,7 +266,7 @@ fi
 
 # Baixa o script
 
-curl -sSL https://raw.githubusercontent.com/aleonejr78/instalador/main/SetupPerfectWork -o SetupPerfectWork
+curl -sSL https://raw.githubusercontent.com/aleonejr78/SetupPerfectWork/main/SetupPerfectWork -o SetupPerfectWork
 if [ $? -eq 0 ]; then
     echo "13/13 - [ OK ] - Baixando o script"
     # Executa o script baixado
